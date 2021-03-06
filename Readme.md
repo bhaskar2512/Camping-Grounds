@@ -1,4 +1,4 @@
-# Cake Wave
+# Camping Grounds
 
 # Description 
 This is a project build for users who loves to travel. User can add campgroud to this site and they will be displayed on the clustered map. Any user after login can add their review for a particular campgrounds. User can also delete Campground which they created.
